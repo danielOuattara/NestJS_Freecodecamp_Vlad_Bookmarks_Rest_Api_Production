@@ -27,7 +27,9 @@ We build a bookmarks API from scratch using `nestJs`, `docker`,
 
 - [x] **(0:03:55) NestJs project setup**
 
-- [ ] **(0:05:55) Modules**
+- [x] **(0:05:55) Modules**
+  
+  `AuthModule`, `UserModule`, `BookMark`
 
 - [ ] **(0:15:30) Auth module**
 
