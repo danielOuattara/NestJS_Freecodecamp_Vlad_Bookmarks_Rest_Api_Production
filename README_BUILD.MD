@@ -69,9 +69,9 @@ We build a bookmarks API from scratch using `nestJs`, `docker`,
 
 - [x] **(0:59:10) NestJs global pipe**
 
-- [ ] **(1:02:50) Hashing user password with argon**
+- [x] **(1:02:50) Hashing user password with argon**
 
-- [ ] **(1:03:20) Sign up logic**
+- [x] **(1:03:20) Sign up logic**
 
 - [ ] **(1:13:13) Sign in logic**
 

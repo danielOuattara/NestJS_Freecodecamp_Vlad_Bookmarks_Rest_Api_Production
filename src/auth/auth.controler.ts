@@ -11,14 +11,14 @@ export class AuthController {
     return 'Welcome';
   }
 
+  @Post('signup')
+  signup(@Body() authDto: AuthDto) {
+    return this.authService.signup(authDto);
+  }
+
   @Post('login')
   login(@Body() authDto: AuthDto) {
     console.log(authDto);
-    return this.authService.login();
-  }
-
-  @Post('signup')
-  signup() {
-    return 'signup !';
+    return this.authService.login(authDto);
   }
 }
