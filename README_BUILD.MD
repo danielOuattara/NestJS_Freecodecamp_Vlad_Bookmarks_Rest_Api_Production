@@ -43,10 +43,14 @@ We build a bookmarks API from scratch using `nestJs`, `docker`,
 
   run `docker compose up dev-db -d`
   
-- [ ] **(0:29:10) Setting up prisma**
+- [x] **(0:29:10) Setting up prisma**
+  
+  `npm install prisma typescript ts-node @types/node --save-dev`
+
+  `npx prisma init`
 
 - [ ] **(0:32:10) User & bookmark models**
-
+  
 - [ ] **(0:35:50) Running prisma migrations**
 
 - [ ] **(0:40:10) Prisma module**
