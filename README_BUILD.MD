@@ -49,7 +49,9 @@ We build a bookmarks API from scratch using `nestJs`, `docker`,
 
   `npx prisma init`
 
-- [ ] **(0:32:10) User & bookmark models**
+- [x] **(0:32:10) User & bookmark models**
+  
+  complete the model for `User` and `Bookmark` in `project-root/prisma`
   
 - [ ] **(0:35:50) Running prisma migrations**
 

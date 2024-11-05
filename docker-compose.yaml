@@ -16,8 +16,8 @@ services:
       - 5435:5432
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: 123123
-      POSTGRES_DB: fcc_vlad_bookmark_test
+      POSTGRES_PASSWORD: 12341234
+      POSTGRES_DB: fcc_vlad_bookmark
     networks:
       - freecodecamp
 networks:
