@@ -37,8 +37,12 @@ We build a bookmarks API from scratch using `nestJs`, `docker`,
 
 - [x] **(0:20:30) Auth controller**
 
-- [ ] **(0:26:50) Setting up postgres in docker**
+- [x] **(0:26:50) Setting up postgres in docker**
+  
+  read and update if necessary `/src/docker-compose.yaml`
 
+  run `docker compose up dev-db -d`
+  
 - [ ] **(0:29:10) Setting up prisma**
 
 - [ ] **(0:32:10) User & bookmark models**
