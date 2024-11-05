@@ -35,7 +35,7 @@ We build a bookmarks API from scratch using `nestJs`, `docker`,
 
 - [x] **(0:19:50) Dependency injection**
 
-- [ ] **(0:20:30) Auth controller**
+- [x] **(0:20:30) Auth controller**
 
 - [ ] **(0:26:50) Setting up postgres in docker**
 
