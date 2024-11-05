@@ -63,11 +63,11 @@ We build a bookmarks API from scratch using `nestJs`, `docker`,
   
   create database service: `nest g service database --no-spec`
 
-- [ ] **(0:52:10) Using auth dtos**
+- [x] **(0:52:10) Using auth dtos**
 
-- [ ] **(0:57:45) NestJs pipes**
+- [x] **(0:57:45) NestJs pipes**
 
-- [ ] **(0:59:10) NestJs global pipe**
+- [x] **(0:59:10) NestJs global pipe**
 
 - [ ] **(1:02:50) Hashing user password with argon**
 
