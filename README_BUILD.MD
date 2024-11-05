@@ -57,7 +57,11 @@ We build a bookmarks API from scratch using `nestJs`, `docker`,
   
   `npx prisma migrate dev --name init`
 
-- [ ] **(0:40:10) Prisma module**
+- [x] **(0:40:10) Prisma module & Service**
+  
+  create database module: `nest g module database`  
+  
+  create database service: `nest g service database --no-spec`
 
 - [ ] **(0:52:10) Using auth dtos**
 
